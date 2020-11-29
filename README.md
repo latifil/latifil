@@ -1,3 +1,10 @@
-<script src="https://unpkg.com/@rocktimsaikia/github-card@2.0.0/dist/widget.min.js" type="module"></script>
+## About me:
+- 17 years old
+- I have no clue what I'm doing
 
-<github-card data-user="kir02" data-theme="dark"></github-card>
+#
+
+<p align="center">
+  <a><img width="64%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg"></a>
+  <a><img width="31%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg"></a>
+</p>
