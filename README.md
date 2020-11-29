@@ -5,5 +5,6 @@
 #
 
 <p align="center">
-  <a><img width="64%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg"></a>
+  <a><img width="64%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/github/0-profile-details.svg"></a>
+  <a><img width="31%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg"></a>
 </p>
