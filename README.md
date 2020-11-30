@@ -4,7 +4,6 @@
   * 17 years old
   * Web Development student at Grafisch Lyceum Utrecht, Netherlands
   * Started [CryBaby Development](https://crybaby.tech/) November 2020
-====== 
 
 # GitHub Stats:
 
