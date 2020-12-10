@@ -8,6 +8,6 @@
 # GitHub Stats:
 
 <p align="center">
-  <a><img width="64%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"></a>
-  <a><img width="31%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"></a>
+  <a><img width="64%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg"></a>
+  <a><img width="31%" src="https://raw.githubusercontent.com/kir02/summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg"></a>
 </p>
