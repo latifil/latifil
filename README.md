@@ -1,5 +1,5 @@
 ## Hey, I'm Kirari👋
-- 📫 Contact: kir@crybaby.tech | Discord: Kirari#0002
+- 📫 Contact: kir@crybaby.tech | Discord: [kirari#0002](https://crybaby.tech/discord)
 -  ℹ About Me: 
    - 17 years old
    - Web Development student at [Grafisch Lyceum Utrecht](https://www.glu.nl/opleiding/mediadeveloper/), Netherlands
