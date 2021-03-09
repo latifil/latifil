@@ -3,7 +3,7 @@
 -  ℹ About Me: 
    - 17 years old
    - Web Development student at [Grafisch Lyceum Utrecht](https://www.glu.nl/opleiding/mediadeveloper/), Netherlands
-   - Started [CryBaby Development](https://crybaby.tech/) November 2020
+   <!--- Started [CryBaby Development](https://crybaby.tech/) November 2020-->
 
 # GitHub Stats:
 
