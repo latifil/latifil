@@ -1,4 +1,4 @@
-## Hey, I'm Izumi👋
+## Hey, I'm Creep👋
 - 📫 Contact: kir@crybaby.tech | Discord: [izumi#0002](https://crybaby.tech/)
 -  ℹ About Me: 
    - 17 years old
@@ -8,6 +8,6 @@
 # GitHub Stats:
 
 <p align="center">
-  <a><img width="64%" src="https://raw.githubusercontent.com/izu02/summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"></a>
-  <!--<a><img width="31%" src="https://raw.githubusercontent.com/izu02/summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"></a>-->
+  <a><img width="64%" src="https://raw.githubusercontent.com/creepwannabe/summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"></a>
+  <!--<a><img width="31%" src="https://raw.githubusercontent.com/creepwannabe/summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"></a>-->
 </p>
