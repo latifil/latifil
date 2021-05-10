@@ -8,6 +8,6 @@
 # GitHub Stats:
 
 <p align="center">
-  <a><img width="64%" src="https://raw.githubusercontent.com/creepwannabe/summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg"></a>
-  <a><img width="31%" src="https://raw.githubusercontent.com/creepwannabe/summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"></a>
+  <a><img width="39%" src="https://raw.githubusercontent.com/creepwannabe/summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg"></a>
+  <a><img width="39%" src="https://raw.githubusercontent.com/creepwannabe/summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"></a>
 </p>
