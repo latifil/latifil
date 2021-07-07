@@ -1,5 +1,5 @@
 ## Hey, I'm Creep👋
-- 📫 Contact: kir@crybaby.tech | Discord: Creep#9781
+- 📫 Contact: contact@creep.cat | Discord: CREEP#9781
 -  ℹ About Me: 
    - 17 years old
    - Web Development student at [Grafisch Lyceum Utrecht](https://www.glu.nl/opleiding/mediadeveloper/), Netherlands
