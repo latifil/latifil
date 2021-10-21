@@ -17,8 +17,8 @@
         <a href="https://github.com/CreepWannabe?tab=repositories&language=javascript" target="_blank"><img
                 alt="Javascript"
                 src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"></a>
-        <a href="https://github.com/CreepWannabe?tab=repositories&language=python" target="_blank"><img alt="Python"
-                src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+        <!-- <a href="https://github.com/CreepWannabe?tab=repositories&language=python" target="_blank"><img alt="Python"
+                src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>-->
         <br>
         <p align="center">
             <a><img width="61%"
