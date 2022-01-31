@@ -31,10 +31,10 @@
             <a><img width="30%"
                     src="https://raw.githubusercontent.com/fckLatif/summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"></a>
         </p>
-        <a href="mailto:contact@creep.cat" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-contact@creep.cat-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+       <!-- <a href="mailto:contact@creep.cat" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-contact@creep.cat-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>-->
         <a href="https://discord.gg/ExAyqGyXqC" target="_blank"><img alt="Discord"
-                src="https://img.shields.io/badge/-CREEP%239781-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+                src="https://img.shields.io/badge/-Latif%239781-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
         <a href="https://github.com/fckLatif/fckLatif" target="_blank"><img alt="GitHub hits"
                 src="https://img.shields.io/github/last-commit/fckLatif/fckLatif?label=profile%20updated&style=flat-square"></a>
         </samp>
