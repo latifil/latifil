@@ -34,7 +34,7 @@
        <a href="mailto:contact@latif.dev" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-contact@latif.dev-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
         <a href="https://discord.gg/" target="_blank"><img alt="Discord"
-                src="https://img.shields.io/badge/-Latif%28008-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+                src="https://img.shields.io/badge/-Latif%238008-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
         <a href="https://github.com/fckLatif/fckLatif" target="_blank"><img alt="GitHub hits"
                 src="https://img.shields.io/github/last-commit/fckLatif/fckLatif?label=profile%20updated&style=flat-square"></a>
         </samp>
