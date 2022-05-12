@@ -1,5 +1,5 @@
 <h3 align="center"><samp>Hey, I'm <b><a rel="nofollow noopener noreferrer" target="_blank"
-                href="https://creep.cat/">Latif</a></b>👋</samp></h3>
+                href="https://latif.dev/">Latif</a></b>👋</samp></h3>
 <br>
 <p align="center">
     「 Web Development Major @ <b>Grafisch Lyceum Utrecht</b> 」<br>
