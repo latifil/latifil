@@ -10,7 +10,7 @@
     <p align="center">
         <br>
         <a href="https://github.com/fckLatif?tab=repositories" target="_blank"><img alt="Code"
-                src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+                src="https://img.shields.io/badge/-code-000000?style=flat-square&logoColor=white"></a>
 <!--         <a href="https://github.com/fckLatif?tab=repositories&language=html" target="_blank"><img alt="HTML"
                 src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a> -->
         <a href="https://github.com/fckLatif?tab=repositories&language=scss" target="_blank"><img alt="Sass"
