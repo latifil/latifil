@@ -3,7 +3,7 @@
 <br>
 <p align="center">
     「 Web Development Major @ <b>Grafisch Lyceum Utrecht</b> 」<br>
-    「 Development Intern @ <b>Born05</b> 」<br>
+<!--     「 Development Intern @ <b>Born05</b> 」<br> -->
 </p>
 <details align="center">
     <summary> <samp>&#9776; Details</samp></summary>
