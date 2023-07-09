@@ -8,7 +8,7 @@
 </h3>
 <br>
 <p align="center">
-    「 Web Development Major @ <b>Grafisch Lyceum Utrecht</b> 」<br>
+    「 Web Developer - Graduate @ <b>Grafisch Lyceum Utrecht</b> 」<br>
 </p>
 <details align="center">
     <summary>
@@ -51,7 +51,7 @@
             <img alt="Mail" src="https://img.shields.io/badge/-contact@latif.dev-EA4335?style=flat-square&logo=gmail&logoColor=white">
         </a>
         <a href="https://discord.gg/" target="_blank">
-            <img alt="Discord" src="https://img.shields.io/badge/-Latif%239478-5865F2?style=flat-square&logo=discord&logoColor=white">
+            <img alt="Discord" src="https://img.shields.io/badge/-fckLatif-5865F2?style=flat-square&logo=discord&logoColor=white">
         </a>
         <a href="https://github.com/fckLatif/fckLatif" target="_blank">
             <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/fckLatif/fckLatif?label=profile%20updated&style=flat-square">
