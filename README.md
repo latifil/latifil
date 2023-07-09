@@ -8,7 +8,7 @@
 </h3>
 <br>
 <p align="center">
-    「 Web Developer - Graduate @ <b>Grafisch Lyceum Utrecht</b> 」<br>
+    「 Web Development Graduate @ <b>Grafisch Lyceum Utrecht</b> 」<br>
 </p>
 <details align="center">
     <summary>
