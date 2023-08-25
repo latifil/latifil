@@ -8,7 +8,7 @@
 </h3>
 <br>
 <p align="center">
-    「 Web Development Graduate @ <b>Grafisch Lyceum Utrecht</b> 」<br>
+    「 Development Major @ <b>HU University of Applied Sciences</b> 」<br>
 </p>
 <details align="center">
     <summary>
