@@ -12,7 +12,7 @@
 </p>
 <details align="center">
     <summary>
-        <samp>&#9776; Details</samp>
+        <samp>&#9776; GitHub Statistics</samp>
     </summary>
     <p align="center">
         <br>
@@ -47,6 +47,17 @@
                 <img width="30%" src="https://raw.githubusercontent.com/fckLatif/summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
             </a>
         </p>
+
+    </p>
+</details>
+<!-- <h3 align="center">
+    What are my hobbies?
+</h3>
+<p align="center">
+    - 🏋️ I'm very into powerlifting!<br>
+    - 🎸 I love listening to music, here are some of my favorite artists right now:
+</p> -->
+<p align="center">
         <a href="mailto:contact@latif.dev" target="_blank">
             <img alt="Mail" src="https://img.shields.io/badge/-contact@latif.dev-EA4335?style=flat-square&logo=gmail&logoColor=white">
         </a>
@@ -56,6 +67,4 @@
         <a href="https://github.com/fckLatif/fckLatif" target="_blank">
             <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/fckLatif/fckLatif?label=profile%20updated&style=flat-square">
         </a>
-        </samp>
-    </p>
-</details>
+</p>
