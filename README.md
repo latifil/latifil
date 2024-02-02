@@ -47,7 +47,6 @@
                 <img width="30%" src="https://raw.githubusercontent.com/fckLatif/summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
             </a>
         </p>
-
     </p>
 </details>
 <!-- <h3 align="center">
