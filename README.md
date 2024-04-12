@@ -8,7 +8,7 @@
 </h3>
 <br>
 <p align="center">
-    「 Studying Artificial Intelligence @ <b>HU University of Applied Sciences</b> 」<br>
+    「 Studying Artificial Intelligence 」<br>
 </p>
 <details align="center">
     <summary>
