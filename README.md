@@ -8,7 +8,7 @@
 </h3>
 <br>
 <p align="center">
-    「 Studying Artificial Intelligence 」<br>
+    「 Aspiring Software Engineer 」<br>
 </p>
 <details align="center">
     <summary>
