@@ -15,14 +15,14 @@
         <samp>&#9776; GitHub Statistics</samp>
     </summary>
     <p align="center">
-        <br>
-        <a href="https://github.com/latifil?tab=repositories" target="_blank">
+<!--         <br> -->
+<!--         <a href="https://github.com/latifil?tab=repositories" target="_blank">
             <img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logoColor=white">
-        </a>
+        </a> -->
         <!-- <a href="https://github.com/latifil?tab=repositories&language=html" target="_blank">
             <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a> -->
-        <a href="https://github.com/latifil?tab=repositories&language=scss" target="_blank">
+<!--         <a href="https://github.com/latifil?tab=repositories&language=scss" target="_blank">
             <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
         </a>
         <a href="https://github.com/latifil?tab=repositories&language=javascript" target="_blank">
@@ -30,11 +30,11 @@
         </a>
         <a href="https://github.com/latifil?tab=repositories&language=typescript" target="_blank">
             <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        </a>
+        </a> -->
         <!-- <a href="https://github.com/latifil?tab=repositories&language=python" target="_blank">
             <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a> -->
-        <br>
+<!--         <br> -->
         <p align="center">
             <a>
                 <img width="61%" src="https://raw.githubusercontent.com/latifil/summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg">
